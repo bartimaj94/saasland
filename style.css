@@ -1033,6 +1033,9 @@
   align-items: center;
   margin-right: 5px;
 }
+.socials {
+  padding-bottom: 2rem;
+}
 .socials a {
   text-decoration: none;
   color: #bab5df;
