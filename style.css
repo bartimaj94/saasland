@@ -336,7 +336,7 @@
 }
 .hero {
   height: 100vh;
-  background: url(bg.png) rgba(0, 0, 0, 0.4) no-repeat top center;
+  background: url(bg-min.png) rgba(0, 0, 0, 0.4) no-repeat top center;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -354,15 +354,15 @@
 @keyframes anime {
   0%,
   100% {
-    background: url(bg1.png) rgba(0, 0, 0, 0.4) no-repeat top center;
+    background: url(bg1-min.png) rgba(0, 0, 0, 0.4) no-repeat top center;
     background-size: cover;
   }
   33% {
-    background: url(bg.png) rgba(0, 0, 0, 0.4) no-repeat top center;
+    background: url(bg-min.png) rgba(0, 0, 0, 0.4) no-repeat top center;
     background-size: cover;
   }
   66% {
-    background: url(bg2.png) rgba(0, 0, 0, 0.4) no-repeat top center;
+    background: url(bg2-min.png) rgba(0, 0, 0, 0.4) no-repeat top center;
     background-size: cover;
   }
 }
